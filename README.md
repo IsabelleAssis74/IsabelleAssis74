@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou a Isabelle 👋
 
-<!--
-**IsabelleAssis74/IsabelleAssis74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-Here are some ideas to get you started:
+## 🔗 Meu portfólio
+**Página pessoal:** https://isabelleassis74.github.io/pagina-pessoal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+HTML • CSS • JavaScript • Python • Git e GitHub
+
+## 🚀 Projetos
+- [Conversor de temperatura](https://isabelleassis74.github.io/conversor-temperatura)
+
+## 📫 Contato
+- [LinkedIn](https://linkedin.com/in/Isabelle-Assis-S744)
+- E-mail: isabelleassissilva744@gmail.com
